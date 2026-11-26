@@ -1,0 +1,10 @@
+Objects/
+Listings/
+*.uvguix.*
+*.axf
+*.hex
+*.map
+*.o
+*.d
+*.crf
+Thumbs.db
